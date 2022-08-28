@@ -19,8 +19,8 @@ const shop = {
     isNew: false
 };
 console.log(shop);
-const shopJson = JSON.stringify(shop); // stringly to object create
+const shopJson = JSON.stringify(shop); // object to JSON stringly converet
 console.log(shopJson);
 
-const shopObj = JSON.parse(shopJson); // object to strignly create
+const shopObj = JSON.parse(shopJson); // JSON Stringly to object convert
 console.log(shopObj);
