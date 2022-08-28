@@ -24,3 +24,9 @@ console.log(shopJson);
 
 const shopObj = JSON.parse(shopJson); // JSON Stringly to object convert
 console.log(shopObj);
+
+
+/*
+ JSON: JavaScript Object Notation is an open data interchange format that is both human and machine-readable.
+
+*/
