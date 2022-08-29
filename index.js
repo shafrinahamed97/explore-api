@@ -17,3 +17,14 @@ function displayUsers2(data)
     ul.appendChild(li);
   }
 }
+
+/*
+     PUT VS POST VS PATCH
+
+     PUT: Create a new resource or replace if the resource exists.
+
+     POST: Create a new resources.
+
+     PATCH: Partially update an existing resource.
+
+*/
