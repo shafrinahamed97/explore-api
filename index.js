@@ -28,3 +28,18 @@ function displayUsers2(data)
      PATCH: Partially update an existing resource.
 
 */
+
+/*
+       HTTP STASUS CODE
+      
+      Code---------Message
+      200          ok
+      301          Moved Permenetly
+      302          Moved Temparetely
+      404          Not Found
+      500          Internal Server Error
+      503          Service Unavailable
+
+       
+
+*/
